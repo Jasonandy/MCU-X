@@ -3,6 +3,9 @@
 
 ### 89C51
 - KEIL C51 单片机开发程序
+- 链接: https://pan.baidu.com/s/1efhuBc 密码: 8s3p
+- http://blog.csdn.net/ybhuangfugui/article/details/51501781
+- 链接: https://pan.baidu.com/s/1mjz53wG 密码: mtn3
 
 
 
