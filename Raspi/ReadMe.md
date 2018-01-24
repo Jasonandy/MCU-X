@@ -3,6 +3,9 @@
 
 ### Raspi 树莓派
 
+### 树莓派2B
+
+-- 入手树莓派2B 搭建kodi
 
 
 ![](http://upload-images.jianshu.io/upload_images/7802425-bb910b4ae954107a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
