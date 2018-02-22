@@ -9,5 +9,6 @@
 
 - 树莓派连接不上网
 + 修改网络配置
++ github python脚本玩手机跳一跳
 
 ![](http://upload-images.jianshu.io/upload_images/7802425-bb910b4ae954107a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
